@@ -1,0 +1,48 @@
+.button {
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+
+  &:hover {
+    color: white;
+    text-decoration: none;
+  }
+
+  &__container {
+    display: inline-block;
+    position: relative;
+    width: 45px;
+    height: 45px;
+    background-color: white;
+  }
+
+  &__icon {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 25px;
+    height: 2px;
+    background-color: $primary;
+
+    &::before, &::after {
+      content: '';
+      position: absolute;
+      width: 10px;
+      height: 2px;
+      background-color: $primary;
+    }
+
+    &::before {
+      top: -3px;
+      right: -2.5px;
+      transform: rotate(45deg);
+    }
+
+    &::after {
+      top: 3px;
+      right: -2.5px;
+      transform: rotate(-45deg);
+    }
+  }
+}
