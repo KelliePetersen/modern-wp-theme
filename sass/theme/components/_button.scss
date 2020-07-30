@@ -1,7 +1,10 @@
 .button {
   color: white;
   text-decoration: none;
-  font-weight: 700;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  display: flex;
+  align-items: center;
 
   &:hover {
     color: white;
@@ -14,6 +17,7 @@
     width: 45px;
     height: 45px;
     background-color: white;
+    margin-left: 15px;
   }
 
   &__icon {

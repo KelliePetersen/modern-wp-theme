@@ -25,7 +25,7 @@ if ( is_front_page() ) {
     <p class="hero__subheading">SUBHEADING</p>
     <h1 class="hero__heading">This is where you put your page title.</h1>
     <a class="button" href="#about">
-      READ MORE
+      LEARN MORE
       <div class="button__container">
         <div class="button__icon"></div>
       </div>
