@@ -1,5 +1,7 @@
 # Modern WordPress Theme
 
+![Screenshot of theme](https://github.com/KelliePetersen/modern-wp-theme/blob/master/screenshot.jpg "Screenshot of theme")
+
 ## About
 
 A simple WordPress theme made for modern businesses. It has a clean, minimalistic design. 
