@@ -1,44 +1,16 @@
-[![Build Status](https://api.travis-ci.org/understrap/understrap.svg?branch=master)](https://travis-ci.org/understrap/understrap)
-[![Wordpress Theme Version](https://img.shields.io/wordpress/theme/v/understrap.svg)](https://wordpress.org/themes/understrap) 
-[![Wordpress Theme Active Installs](https://img.shields.io/wordpress/theme/installs/understrap.svg)](https://wordpress.org/themes/understrap/) 
-[![Github Last Commit](https://img.shields.io/github/last-commit/understrap/understrap)](https://github.com/understrap/understrap/commits/master) 
-[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0)
-
-#### See: [Official Demo](https://understrap.com/understrap) | Read: [Official Docs Page](https://understrap.github.io/)
-
-# UnderStrap WordPress Theme Framework
-
-Website: [https://understrap.com](https://understrap.com)
-
-Child Theme Project: [https://github.com/understrap/understrap-child](https://github.com/understrap/understrap-child)
-
-OverStrap Child Themes: [https://understrap.com/overstrap/](https://understrap.com/overstrap/)
+# Modern WordPress Theme
 
 ## About
 
-I’m a huge fan of Underscores, Bootstrap, and Sass. Why not combine these into a solid WordPress Theme Framework? That’s what UnderStrap is. You can use it as a starter theme and build your own theme on top of it. Or you can use it as a parent theme and create your own child theme for UnderStrap.
+A simple WordPress theme made for modern businesses. It has a clean, minimalistic design. 
 
 ## License
-UnderStrap WordPress Theme, Copyright 2013-2018 Holger Koenemann
-UnderStrap is distributed under the terms of the GNU GPL version 2
 
-http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
-
-## Changelog
-See [changelog](CHANGELOG.md)
-
+MIT License. Do whatever you want.
 
 ## Basic Features
 
-- Combines Underscore’s PHP/JS files and Bootstrap’s HTML/CSS/JS.
-- Comes with Bootstrap (v4) Sass source files and additional .scss files. Nicely sorted and ready to add your own variables and customize the Bootstrap variables.
-- Uses a single minified CSS file for all the basic stuff.
-- [Font Awesome](http://fortawesome.github.io/Font-Awesome/) integration (v4.7.0)
-- Jetpack ready.
-- WooCommerce support.
-- Contact Form 7 support.
-- [Child Theme](https://github.com/understrap/understrap-child) ready.
-- Translation ready.
+- Built with Understrap
 
 ## Starter Theme + HTML Framework = WordPress Theme Framework
 
