@@ -27,10 +27,7 @@ if ( is_front_page() ) {
     <a class="button" href="#about">
       READ MORE
       <div class="button__container">
-        <div class="button__icon">
-          <div class="button__line"></div>
-          <div class="button_arrow"></div>
-        </div>
+        <div class="button__icon"></div>
       </div>
     </a>
   </div>

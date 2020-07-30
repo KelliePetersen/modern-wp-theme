@@ -21,27 +21,27 @@
     left: 0;
     top: 50%;
     transform: translateY(-50%);
-    width: 25px;
+    width: 22.5px;
     height: 2px;
     background-color: $primary;
 
     &::before, &::after {
       content: '';
       position: absolute;
-      width: 10px;
+      width: 7.5px;
       height: 2px;
       background-color: $primary;
     }
 
     &::before {
-      top: -3px;
-      right: -2.5px;
+      top: -2px;
+      right: -1.5px;
       transform: rotate(45deg);
     }
 
     &::after {
-      top: 3px;
-      right: -2.5px;
+      top: 2px;
+      right: -1.5px;
       transform: rotate(-45deg);
     }
   }
