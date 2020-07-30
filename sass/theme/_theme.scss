@@ -1,1 +1,8 @@
 // This is an empty scss file for your custom styles - Please add your super duper awesome mega design styles here
+
+$primary: #c837ab; // Thats a sample how you could change a BootStrap variable.
+$secondary: #d40055;
+$gradient: linear-gradient(135deg, $primary, $secondary);
+$black: #1a1a1a;
+$gray: #666;
+$light: #f9f9f9;
