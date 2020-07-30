@@ -18,6 +18,10 @@ if ( is_front_page() ) {
 }
 ?>
 
+<div class="hero">
+  <img class="hero__image" src="<?php echo get_template_directory_uri(); ?>/img/hero1920.jpg" alt="photo of a large city">
+</div>
+
 <div class="wrapper" id="full-width-page-wrapper">
 
 	<div class="<?php echo esc_attr( $container ); ?>" id="content">
